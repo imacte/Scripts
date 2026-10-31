@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "upstream": "ddgksf2013/Scripts",
+  "branch": "master",
+  "upstream_commit": "0cddbb6bc31344315afba773ebb4e7ce29f7fd8f",
+  "mode": "merge-upstream",
+  "checked_at": "2026-10-31T11:20:24.711Z"
+}

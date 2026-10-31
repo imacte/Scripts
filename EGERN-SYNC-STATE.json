@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "upstream": "ddgksf2013/Scripts",
+  "base_commit": "cdf1d5f9569fe14690ea82a490a71a72d84be04c",
+  "role": "rewrite-scripts",
+  "releases": [],
+  "managed_paths": [
+    "12306.js",
+    "vendor/netease-source.json",
+    "vendor/netease.adblock.js"
+  ]
+}
