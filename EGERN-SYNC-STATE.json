@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "upstream": "ddgksf2013/Scripts",
-  "base_commit": "cdf1d5f9569fe14690ea82a490a71a72d84be04c",
+  "base_commit": "cf4cd62c8baf58302bf2244c6027fdd60305edd0",
   "role": "rewrite-scripts",
   "releases": [],
   "managed_paths": [
